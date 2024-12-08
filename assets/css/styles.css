@@ -342,7 +342,7 @@ img {
   scroll-behavior: smooth;
 }
 .content-box1 {
-  background-image: url("/assets/img/forbg1.jpeg");
+  background-image: url("forbg1.jpeg");
   min-width: 100vw;
   height: 100vh;
   scroll-snap-align: start;
